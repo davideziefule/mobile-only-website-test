@@ -1,0 +1,21 @@
+/* Reset some default styles for the body and sections */
+body, section {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for the first section */
+.section1 {
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style for the second section */
+.section2 {
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
